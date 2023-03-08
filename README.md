@@ -1,4 +1,4 @@
-# Default Koltin Project
+# Default Kotlin Project
 
 This repository is a basic structure to init a kotlin project, the default project name is "MyProject"
 
