@@ -2,7 +2,6 @@ import org.jetbrains.kotlin.config.KotlinCompilerVersion
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 import org.jetbrains.kotlin.com.google.common.base.Optional
 
-group = "tech.devpalomo"
 version = "0.0.1"
 
 val javaVersion = JavaVersion.VERSION_19
